@@ -1,4 +1,4 @@
-# firebase78
+# Simple Firebase Project
 
 A new Flutter project.
 
